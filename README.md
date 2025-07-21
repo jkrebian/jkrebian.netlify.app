@@ -1,4 +1,5 @@
-# [Hugo Docs Theme](https://github.com/HugoBlox/theme-documentation)
+# [J.Krebian Docs Site](https://jkrebian.netlify.app)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/469a21c9-b47e-4481-b87d-3c163e62e743/deploy-status)](https://app.netlify.com/projects/jkrebian/deploys)
 [![Screenshot](https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/.github/preview.png)](https://hugoblox.com/templates/details/docs/)
 
