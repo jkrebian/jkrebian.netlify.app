@@ -1,4 +1,4 @@
-module github.com/HugoBlox/theme-documentation
+module github.com/jkrebian/jkrebian.github.io
 
 go 1.15
 
