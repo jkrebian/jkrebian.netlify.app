@@ -1,5 +1,5 @@
 # [Hugo Docs Theme](https://github.com/HugoBlox/theme-documentation)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/469a21c9-b47e-4481-b87d-3c163e62e743/deploy-status)](https://app.netlify.com/projects/jkrebian/deploys)
 [![Screenshot](https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/.github/preview.png)](https://hugoblox.com/templates/details/docs/)
 
 The Hugo **Documentation Template** empowers with everything you need to build a beautiful documentation website, including a customizable block-based homepage and blog. It's ultra-fast and easy, letting you focus on your content. It's also no-code by default, so no JavaScript knowledge is required unlike other templates!
